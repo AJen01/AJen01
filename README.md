@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AJen01
 - 👀 I’m interested in Computational Chemistry / Crystal Growth.
-- 🌱 Currently a PhD Researcher in Chemistry, involving the study of crystal growth prediction using atomistic simulations.
+- 🌱 Currently a PhD Researcher in Chemistry, studying crystal growth prediction using atomistic simulations.
 - 🌱 I’m currently working with Python to produce data anaylsis and shape optimisation software.
 - 📫 To reach me, email me at jennerwalisinghe@gmail.com.
 
